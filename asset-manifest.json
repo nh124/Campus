@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Campus/static/css/main.5816a283.css",
-    "main.js": "/Campus/static/js/main.87f224db.js",
+    "main.js": "/Campus/static/js/main.34e9d1fa.js",
     "index.html": "/Campus/index.html",
     "main.5816a283.css.map": "/Campus/static/css/main.5816a283.css.map",
-    "main.87f224db.js.map": "/Campus/static/js/main.87f224db.js.map"
+    "main.34e9d1fa.js.map": "/Campus/static/js/main.34e9d1fa.js.map"
   },
   "entrypoints": [
     "static/css/main.5816a283.css",
-    "static/js/main.87f224db.js"
+    "static/js/main.34e9d1fa.js"
   ]
 }
